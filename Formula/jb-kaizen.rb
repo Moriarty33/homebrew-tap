@@ -1,8 +1,8 @@
 class JbKaizen < Formula
   desc "Self-improving Claude Code setup with the Hoply day review"
   homepage "https://github.com/Moriarty33/jb-kaizen"
-  url "https://github.com/Moriarty33/jb-kaizen/archive/refs/tags/v1.2.0.tar.gz"
-  sha256 "e2df46967c097f5eded5722def26a8dc109585926a3e43da22cb34b7eb5f77ef"
+  url "https://github.com/Moriarty33/jb-kaizen/archive/refs/tags/v1.2.1.tar.gz"
+  sha256 "f6c45f42a1e30fddbca8109fb8535ea1f1044e05a03501a5aca6bbc6bc9ead5e"
   license "MIT"
 
   depends_on "jq"
